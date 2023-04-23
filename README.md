@@ -6,4 +6,4 @@ I have also worked on front-end with HTML & CSS and Bootstrap. I am actively stu
 
 Interesting fact about me: I have taken part in exchange program FLEX and spent a year living and studying in the U. S. which also helped me get Advanced English level.
 
-I believe that programming is more than just bit and bytes and it inspires me to learn something new every day!
+I believe that programming is more than just bits and bytes and it inspires me to learn something new every day!
